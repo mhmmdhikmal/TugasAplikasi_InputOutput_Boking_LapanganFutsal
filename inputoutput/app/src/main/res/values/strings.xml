@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">inputoutput</string>
+    <string name="tanggallahir">tanggallahir</string>
+    <string name="nama">nama</string>
+    <string name="ktp">ktp</string>
+    <string name="alamat">alamat</string>
+    <string name="namalengkap">namalengkap</string>
+    <string name="birth">birth</string>
+    <string name="idktp">idktp</string>
+    <string name="address">address</string>
+    <string name="boking">Boking</string>
+</resources>
